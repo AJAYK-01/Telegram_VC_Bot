@@ -1,5 +1,9 @@
-OpenCC
 Pillow
-Pyrogram==1.0.7
+pytgcalls
+ffmpeg-python
+python-arq
+Pyrogram
 TgCrypto
-youtube-dl
+youtube_dl
+aiofiles
+aiohttp
